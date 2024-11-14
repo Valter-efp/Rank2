@@ -67,7 +67,7 @@ fclean: clean
 re: fclean all
 
 download:
-	@wget https://cdn.intra.42.fr/document/document/21300/minilibx-linux.tgz
+	@wget https://cdn.intra.42.fr/document/document/27195/minilibx-linux.tgz
 	@tar -xzf minilibx-linux.tgz
 	@rm minilibx-linux.tgz
 	 
